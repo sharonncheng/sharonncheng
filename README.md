@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharonncheng
 - 👀 I’m interested in AI + HCI, medical science, and graphic design. I also love sports in general!
-- 🌱 I’m currently learning how to implement my passion in areas like immersive technology (AR/VR).
-- 💞️ I’m looking to collaborate on creating immersive technology content with social good!
+- 🌱 I’m currently working to implement my passion in areas like immersive technology (AR/VR).
+- 💞️ I’m looking to collaborate on creating immersive technology content for social good!
 - 📫 How to reach me: email scsharon@stanford.edu (school/general) or sharonccheng@gmail.com (work)
 
 <!---
